@@ -3,7 +3,7 @@
 
 ### Hello
 
-It is my first game in JavaScript! Back to the root - classic PONG :smile: Two game options: with another player or with computer :computer:
+It is my first game in JavaScript! Back to the roots - classic PONG :smile: Two game options: with another player or with computer :computer:
 
 ### design:
 ![screen.png](screen.png)
